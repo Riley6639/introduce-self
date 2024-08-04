@@ -1,6 +1,7 @@
 h1 {
-    width: 200px;
+    width: 100px;
     color: blue;
+    float: center;
 }
 img {
     width: 100px;
