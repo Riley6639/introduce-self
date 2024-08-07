@@ -1,12 +1,13 @@
-h1 {
-    width: 150px;
-    color: blue;
+.box {
+    color: black;
+    background-color: rgb(139, 194, 139);
 }
+
 img {
     width: 150px;
     height: 150px;
     border-radius: 75px;
-    float: left;
+    float: right;
     margin-right: 20px;
     object-fit: fill;
 }
@@ -17,5 +18,5 @@ strong {
 }
 
 body {
-    text-align: center;
+    text-align: left;
 }
