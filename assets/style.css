@@ -1,6 +1,9 @@
 .box {
     color: black;
     background-color: rgb(139, 194, 139);
+    display: flex;
+    flex-flow: row flex-end;
+    justify-content: space-around;
 }
 
 img {
@@ -22,6 +25,9 @@ body {
 }
 
 #about {
+    display: flex;
+    flex-flow: column flex-end;
+    justify-content: space-aroundS;
     height: 300px;
 }
 
