@@ -1,36 +1,14 @@
-.box {
-    color: black;
-    background-color: rgb(139, 194, 139);
+header {
     display: flex;
-    flex-flow: row flex-end;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(173, 144, 86);
 }
 
-img {
-    width: 60px;
-    height: 60px;
-    border-radius: 30px;
-    float: right;
-    margin-right: 20px;
-    object-fit: fill;
-}
-
-strong {
-    color: rgb(207, 10, 10);
-    font-style: normal;
+nav {
+    display: inline;
 }
 
 body {
-    text-align: left;
-}
-
-#about {
-    display: flex;
-    flex-flow: column flex-end;
-    justify-content: space-aroundS;
-    height: 300px;
-}
-
-#header {
-    font-style: italic;
+   background-image: ;
 }
